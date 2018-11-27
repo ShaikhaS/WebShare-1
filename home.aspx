@@ -21,19 +21,17 @@
             background-color: #EAE8DC;
         }
         .auto-style4 {
-            width: 873px;
+            width: 900px;
         }
     </style>
 </head>
-<body style="height: 499px; width: 959px">
+<body style="height: 550px; width: 959px">
     <form id="form1" runat="server">
         <div class="auto-style2">
             <br />
     <div class="auto-style1">
     
-        <div>
-            <h1 class="auto-style3"><strong style="font-family: 'Britannic Bold'">WebShare Website</strong></h1>
-        </div>
+
 &nbsp;&nbsp;&nbsp;
     
     </div>
