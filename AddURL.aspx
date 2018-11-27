@@ -33,20 +33,6 @@
         <asp:Label ID="Label4" runat="server" Text="Course Name"></asp:Label>
 &nbsp;&nbsp;
         <asp:DropDownList ID="Major" runat="server">
-            <asp:ListItem Selected="True">Select Your Major ...</asp:ListItem>
-            <asp:ListItem>Computer Science</asp:ListItem>
-            <asp:ListItem>Computer Engineering</asp:ListItem>
-            <asp:ListItem>Information Technology</asp:ListItem>
-            <asp:ListItem>Interior Design</asp:ListItem>
-            <asp:ListItem>Mechanical Engineering</asp:ListItem>
-            <asp:ListItem>Electrical Engineering</asp:ListItem>
-            <asp:ListItem>Civil Engineering</asp:ListItem>
-            <asp:ListItem>Business Administration</asp:ListItem>
-            <asp:ListItem>Finance</asp:ListItem>
-            <asp:ListItem>Accounting</asp:ListItem>
-            <asp:ListItem>Management Information Systems</asp:ListItem>
-            <asp:ListItem>Human Resource Management</asp:ListItem>
-            <asp:ListItem>Law</asp:ListItem>
         </asp:DropDownList>
         &nbsp;
         <asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" ErrorMessage="You should select Course Name " ControlToValidate="Major" CssClass="auto-style2"></asp:RequiredFieldValidator>
